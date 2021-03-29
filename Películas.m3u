@@ -44,3 +44,6 @@ https://raw.githubusercontent.com/PCFLIX/PASTE-DE-PELICULAS/main/Pel%C3%ADculas%
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bxqzmac0k0h7jq2/WESTERN.jpg",Crimen
 https://raw.githubusercontent.com/PCFLIX/PASTE-DE-PELICULAS/main/Western.m3u
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44frvua29qa624p/comedia.png",Bélicas
+https://raw.githubusercontent.com/PCFLIX/PASTE-DE-PELICULAS/main/Comedia.m3u
