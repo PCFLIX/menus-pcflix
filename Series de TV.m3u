@@ -1,1 +1,20 @@
+#EXTM3U
+#EXTINF:-1 group-title="Series de TV",.
+http://..
+
+#EXTINF:-1 tvg-logo="",Series
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Series.m3u
+
+#EXTINF:-1 tvg-logo="",Caricaturas
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Caricaturas.m3u
+
+#EXTINF:-1 tvg-logo="",Documentales
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Documentales.m3u
+
+#EXTINF:-1,tvg-logo="",Anime
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Anime.m3u
+
+#EXTINF:-1,tvg-logo="",Deportes
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Deportes.m3u
+
 
