@@ -3,10 +3,10 @@
 #EXTINF:-1,tvg-logo="" group-title="STREAMING EN PC",DISFRUTA
 http://...
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg",Acción
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg",Accion
 https://raw.githubusercontent.com/PCFLIX/PASTE-DE-PELICULAS/main/Acci%C3%B3n.m3u
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1mxo64pury4n6c5/CIENCIA%20FICCION.jpg",Ciencia Ficción
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1mxo64pury4n6c5/CIENCIA%20FICCION.jpg",Ciencia Ficcion
 https://raw.githubusercontent.com/PCFLIX/PASTE-DE-PELICULAS/main/Ciencia%20Ficci%C3%B3n.m3u
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f7qrw5a4wi1rqgj/DRAMA.jpg",Drama
