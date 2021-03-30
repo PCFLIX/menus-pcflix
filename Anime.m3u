@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="" group-title="Anime en PC",DISFRUTA
+http://..
+
+#EXTINF:-1,tvg-logo="",Anime
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Anime.m3u
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/94s0mNy/81-H2q-S3-W9k-L-AC-SL1500.jpg",Peliculas
+https://raw.githubusercontent.com/PCFLIX/PASTE-DE-PELICULAS/main/Pel%C3%ADculas%20de%20Anime.m3u
+
+
+
