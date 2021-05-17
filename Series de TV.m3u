@@ -14,4 +14,5 @@ https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Documentales.m3u
 #EXTINF:-1,tvg-logo="",Deportes
 https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/Deportes.m3u
 
-
+#EXTINF:-1,tvg-logo="",480p
+https://raw.githubusercontent.com/PCFLIX/paste-de-series/main/480p.m3u
